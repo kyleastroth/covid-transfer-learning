@@ -1,1 +1,1 @@
-# transfer-learning
+# covid-transfer-learning
